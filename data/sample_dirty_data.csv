@@ -1,0 +1,69 @@
+Employee_ID,Name,Department,Email,Phone,Date_of_Joining,Salary,Rating
+EMP031,ISHAAN IYER,finance,ishaan.iyer30@example.com,+91-93297 30155,2021/06/18,57110,4
+EMP027,Rohit Mehta,SALES,,9812807629,27/02/2020,59444,0
+EMP053,shreya khan,it ,shreya.khan91@example.com,09607042130,13/03/2022,96616,2
+EMP025,Rohit Nair,IT,rohit.nair86@example.com,9812306873,17-05-2023,72753,3
+EMP033,NIKHIL KHAN,Information Technology,nikhil.khan60@example.com,+91-96735 10887,32/13/2020,47786,7
+EMP022,Vikram Reddy,IT,user@example,9940081098,28/11/2024,44168,1
+EMP001,Sneha Sharma,Finance,sneha.sharma32@example.com,9826600539,"February 19, 2022",42280,5
+EMP056,Vikram Mehta,it ,vikram.mehta43@example.com,+91-95727 75194,24/01/2021,115823,1
+EMP028,Rahul Iyer,MARKETING,rahul.iyer81@example.com,9512293741,2019-03-21,43970,2
+EMP004,Kavya Iyer,Sales,kavya.iyer59@example.com,,2020-12-22,52431,2
+EMP037,Sneha Joshi,SALES,sneha.joshi45@example.com,9174041730,2020/01/28,43833,3
+EMP030,Aditya Kumar,Information Technology,aditya.kumar61@example.com,09784683755,16/09/2024,40155,2
+EMP008,karthik iyer,human resources,karthik.iyer21@example.com,09872751234,2022-03-17,69117,5
+EMP002,Rohit Khan,Hr,rohit.khan70@example.com,9398704996,2018/03/23,50379,
+EMP902,Test User,,test@example.com,,2020-01-01,,3
+EMP011,aditya iyer,it ,aditya.iyer9@example.com,9347083812,2018-02-23,34117,1
+EMP010,ISHAAN KUMAR,Finance,ishaan.kumar61@example.com,9666585408,18/04/2021,82296,3
+EMP016,KAVYA GUPTA,Sales,kavya.gupta73@example.com,+91-97650 55833,19-10-2023,56772,3
+EMP032,Aarav Joshi,Marketing,aarav.joshi1@example.com,9518744974,18/07/2024,65774,1
+EMP038,VIKRAM GUPTA,Hr,vikram.gupta67@example.com,9967797300,2024/08/15,107656,2
+EMP035,Priya Sharma,MARKETING,priya.sharma26@example.com,+91-93561 35680,19/02/2023,63586,2
+EMP019,ishaan kumar,HR,ishaan.kumar78@example.com,9838194420,16-09-2020,999999999,4
+EMP049,Tanya Joshi,SALES,tanya.joshi98@example.com,9143198431,2019/08/17,53788,4
+EMP012,Shreya Reddy,HR,shreya.reddy93@example.com,09607526654,32/13/2020,76438,4
+EMP018,DIVYA SINGH,Hr,divya.singh70@example.com,9966616964,27-11-2018,43577,2
+EMP026,Pooja Das,SALES,pooja.das87@example.com,,10-01-2024,106019,3
+EMP005,Arjun Das,Information Technology,arjun.das29@example.com,+91-99332 23566,26-01-2024,38675,5
+EMP042,ISHAAN KHAN,MARKETING,ishaan.khan28@example.com,9733064117,2022-10-10,68829,2
+EMP034,Rohit Patel,Hr,rohit.patel98@example.com,9993271900,2024-02-16,36826,3
+EMP014,Kavya Kumar,it ,kavya.kumar62@example.com,09162959284,2018/07/09,102845,4
+EMP901,,Sales,,,,,
+EMP021,  Pooja Kumar  ,MARKETING,pooja.kumar47@example.com,9142836793,2019-11-08,103385,4
+EMP060,Meera Das,finance,meera.das10@example.com,09730900313,2021/12/09,56111,
+EMP006,Rohit Das,Hr,rohit.das83@example.com,9364814270,2022/05/24,82350,2
+EMP045,Nikhil Patel,human resources,nikhil.patel39@example.com,9427899537,2018-10-24,57235,3
+EMP024,  Tanya Singh  ,MARKETING,tanya.singh77@example.com,9436808455,13/02/2022,"87,154",5
+EMP059,Manoj Gupta,SALES,user @example.com,9765408938,05/10/2021,63289,1
+EMP029,  Manoj Patel  ,Finance,user@.com,9960514523,20-09-2022,88008,5
+EMP020,Aarav Nair,human resources,aarav.nair82@example.com,9574417266,"September 1, 2021",49536,3
+EMP003,Divya Nair,Hr,divya.nair6@example.com,+91-95064 48196,20-11-2020,"39,116",2
+EMP046,Kavya Kumar,it ,KAVYA.KUMAR21@EXAMPLE.COM,9583724666,02/05/2021,67056,0
+EMP058,  Kavya Khan  ,IT,kavya.khan13@example.com,9207918827,2023-05-01,37355,3
+EMP055,Aditya Nair,HR,aditya.nair90@example.com,9932734539,2020/12/16,116991,2
+EMP009,Divya Kumar,Hr,divya.kumar68@example.com,+91-96246 36385,2020-05-08,104364,1
+EMP048,Sneha Patel,Marketing,sneha.patel90@example.com,9679800791,2018/10/02,109129,1
+EMP043,ishaan kumar,HR,ishaan.kumar7@example.com,9235591568,2024-08-04,91524,3
+EMP047,Tanya Das,SALES,tanya.das26@example.com,+91-97953 92488,2020-03-03,70319,5
+EMP044,ARJUN PATEL,Finance,not-an-email,+91-92629 15636,32/13/2020,109471,5
+EMP017,Vikram Das,IT,vikram.das59@example.com,+91-91778 92576,2022-10-04,96307,3
+EMP040,Ishaan Sharma,IT,ishaan.sharma25@example.com,9624606470,2019/12/16,999999999,2
+EMP013,Sneha Sharma,Hr,user@.com,9304235259,06-07-2019,39880,N/A
+EMP041,Meera Das,MARKETING,meera.das61@example.com,9900942073,15-12-2020,-5000,2
+EMP057,Karthik Joshi,it ,karthik.joshi84@example.com,9824085842,2021/06/21,34705,2
+EMP023,Rohit Patel,human resources,rohit.patel30@example.com,12345,2024/05/12,100282,
+EMP023,Rohit Patel,human resources,rohit.patel30@example.com,12345,2024/05/12,100282,
+EMP039,arjun patel,it ,arjun.patel60@example.com,+91-94612 03124,2024/06/06,63862,5
+EMP015,Rohit Sharma,Marketing,ROHIT.SHARMA70@EXAMPLE.COM,+91-94367 30606,"August 17, 2022",999999999,0
+EMP052,  Shreya Iyer  ,human resources,shreya.iyer81@example.com,12345,03/07/2022,44871,1
+EMP050,Ramesh Patel,Information Technology,user@.com,9454123990,2021/05/22,"102,102",1
+EMP019,ishaan kumar,HR,ishaan.kumar78@example.com,9838194420,16-09-2020,999999999,4
+EMP037,Sneha Joshi,SALES,sneha.joshi45@example.com,9174041730,2020/01/28,43833,3
+EMP058,  Kavya Khan  ,IT,kavya.khan13@example.com,9207918827,2023-05-01,37355,3
+EMP054,Pooja Nair,Sales,user@example,9999232921,28/08/2023,93483,5
+EMP045,Nikhil Patel,human resources,nikhil.patel39@example.com,9427899537,2018-10-24,57235,3
+EMP007,PRIYA IYER,Marketing,priya.iyer21@example.com,,2021-09-09,45014,5
+EMP002,Rohit Khan,Hr,rohit.khan70@example.com,9398704996,2018/03/23,50379,
+EMP036,Sneha Kumar,finance,sneha.kumar14@example.com,9718257024,"July 23, 2021",112213,3
+EMP051,Sneha Gupta,SALES,sneha.gupta1@example.com,+91-95437 21204,2022/06/20,36764,

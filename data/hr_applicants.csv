@@ -1,0 +1,61 @@
+Applicant_ID,Name,Email,Phone,Degree,University,Experience_Years,Applied_Date,Status
+APP045,Divya Mehta,divya.mehta8@example.com,+91-94874 78140,MBA,Anna University,12 years,01/07/2024,selected
+APP052,Priya Khan,priya.khan44@example.com,9298269481,mba,Anna University,12,08/02/2023,on_hold
+APP042,Vikram Khan,vikram.khan67@example.com,09990818371,mtech,iit delhi,3,04-09-2023,
+APP021,Ananya Sharma,ananya.sharma4@example.com,9405255760,B.Tech,iit delhi,4,04/03/2023,REJECTED
+APP030,Arjun Singh,arjun.singh84@example.com,09847457728,BCA,ANNA UNIVERSITY,8 years,2023-04-21,rejected
+APP028,Priya Reddy,priya.reddy48@example.com,+91-94077 66979,,ANNA UNIVERSITY,5 years,10-11-2023,Rejected
+APP023,meera nair,meera.nair92@example.com,,mba,Anna University,4,21-10-2023,selected
+APP054,Rahul Das,rahul.das2@example.com,9210089015,MBA,iit delhi,1 years,2024-11-22,REJECTED
+APP046,ishaan das,,09513307603,mtech,Anna University,0,2024-03-23,rejected
+APP005,Ananya Khan,,9961707650,,ANNA UNIVERSITY,Fresher,2023-08-26,On hold
+APP018,Divya Joshi,divya.joshi12@example.com,9785363436,bca,Anna University,0,2023-10-06,rejected
+APP001,Rahul Reddy,rahul.reddy93@example.com,9920379991,,iit delhi,1,2023-05-08,REJECTED
+APP040,Kavya Reddy,kavya.reddy52@example.com,9428643188,M.Tech,Delhi University,12,2023-03-08,rejected
+APP044,  Aarav Gupta  ,aarav.gupta82@example.com,9828208250,MBA,IIT DELHI,5,11/10/2024,REJECTED
+APP012,Meera Singh,meera.singh22@example.com,,Bachelor of Technology,Delhi University,0,2023-02-01,
+APP034,arjun patel,arjun.patel63@example.com,9717295716,MBA,iit delhi,8,15/10/2024,REJECTED
+APP033,Aarav Khan,aarav.khan65@example.com,9456642811,B.Tech,IIT DELHI,8,11/15/2024,on_hold
+APP036,Arjun Nair,not-an-email,+91-95889 51403,mba,mumbai university,4,2023-07-21,Rejected
+APP019,ROHAN NAIR,rohan.nair50@example.com,9204708562,MBA,Mumbai University,7,05/06/2024,Selected
+APP024,Aarav Khan,aarav.khan45@example.com,9964493599,,iit delhi,11 years,19-05-2023,Rejected
+APP014,Meera Khan,meera.khan80@example.com,9154962288,b.tech,mumbai university,fresher,,rejected
+APP016,Vikram Gupta,vikram.gupta57@example.com,9243116744,b.tech,iit delhi,9,2023-04-07,SELECTED
+APP035,Ananya Joshi,ananya.joshi44@example.com,09918517462,BCA,Mumbai University,0,02/08/2024,on_hold
+APP017,DIVYA SINGH,divya.singh91@example.com,9278644360,BTech,Mumbai University,6,2023-02-06,rejected
+APP027,Rahul Khan,rahul.khan97@example.com,+91-95670 38529,BCA,ANNA UNIVERSITY,8,01-05-2023,On Hold
+APP020,  Divya Singh  ,divya.singh93@example.com,,MBA,IIT Delhi,0,27-06-2024,rejected
+APP043,Ananya Joshi,ananya.joshi37@example.com,12345,,Delhi University,4 years,12-03-2023,SELECTED
+APP009,Rahul Gupta,rahul.gupta90@example.com,9822726015,MBA,,3,2024-08-04,
+APP041,ananya khan,ananya.khan99@example.com,9882049391,M.Tech,IIT Delhi,7,2024-04-27,On Hold
+APP010,Rahul Gupta,rahul.gupta33@example.com,9362056687,B.Tech,Anna University,9,not-a-date,On Hold
+APP033,Aarav Khan,aarav.khan65@example.com,9456642811,B.Tech,IIT DELHI,8,11/15/2024,on_hold
+APP047,ARJUN DAS,arjun.das67@example.com,9529467680,M.Tech,IIT Delhi,0,08/04/2023,rejected
+APP023,meera nair,meera.nair92@example.com,,mba,Anna University,4,21-10-2023,selected
+APP026,Rohan Gupta,rohan.gupta60@example.com,9386781228,BCA,IIT Delhi,11,12/06/2024,REJECTED
+APP008,Priya Reddy,priya.reddy79@example.com,09122726559,MBA,Anna University,11 years,19/01/2024,REJECTED
+APP004,Meera Gupta,meera.gupta15@example.com,+91-96676 85178,Bachelor of Technology,,3,2024-12-21,Rejected
+APP025,Priya Gupta,priya.gupta23@example.com,9793372976,mba,Anna University,,17/07/2023,rejected
+APP049,vikram das,vikram.das31@example.com,+91-94757 63948,bca,Anna University,4,2024-10-21,
+APP032,Arjun Sharma,arjun.sharma94@example.com,9221323829,b.tech,mumbai university,12,2024-07-10,SELECTED
+APP022,Rahul Sharma,rahul.sharma34@example.com,9598500721,BTech,Anna University,0,2024-02-01,selected
+APP048,  Sneha Sharma  ,sneha.sharma44@example.com,+91-95560 24324,bca,IIT DELHI,9,12/08/2023,REJECTED
+APP006,Kavya Joshi,,9407296730,BCA,Anna University,0,2024-11-05,on_hold
+APP055,Priya Nair,priya.nair20@example.com,9528328852,mtech,IIT DELHI,6,12-01-2024,selected
+APP007,Rahul Gupta,rahul.gupta10@example.com,9774379520,M.Tech,mumbai university,2,2024-07-13,on_hold
+APP051,  Rohan Singh  ,user@.com,9888163315,,,8,28-12-2023,On Hold
+APP003,AARAV REDDY,aarav.reddy81@example.com,9480628526,B.Tech,Anna University,Fresher,09/02/2023,SELECTED
+APP031,  Aarav Singh  ,aarav.singh79@example.com,+91-93904 41391,bca,Anna University,6,2024-12-13,selected
+APP029,priya joshi,priya.joshi79@example.com,9130367294,mba,Delhi University,1,07-07-2024,On hold
+APP002,Priya Singh,priya.singh44@example.com,9536383781,B.Tech,iit delhi,0,2024-05-07,selected
+APP048,  Sneha Sharma  ,sneha.sharma44@example.com,+91-95560 24324,bca,IIT DELHI,9,12/08/2023,REJECTED
+APP039,ROHAN JOSHI,rohan.joshi12@example.com,09884918301,mtech,iit delhi,4,2023-06-19,On hold
+APP038,  Kavya Das  ,kavya.das44@example.com,9219319486,MBA,IIT DELHI,5,2023-12-24,Rejected
+APP011,Rahul Sharma,rahul.sharma62@example.com,,BCA,IIT Delhi,8,2024-09-17,Rejected
+APP053,SNEHA SHARMA,not-an-email,09601542646,MBA,mumbai university,8,06/06/2024,Rejected
+APP015,Rahul Singh,rahul.singh35@example.com,9609540628,mba,IIT DELHI,,03-05-2023,Rejected
+APP034,arjun patel,arjun.patel63@example.com,9717295716,MBA,iit delhi,8,15/10/2024,REJECTED
+APP013,Arjun Mehta,arjun.mehta64@example.com,+91-99721 38160,B.Tech,Delhi University,0 years,2023-02-21,On Hold
+APP035,Ananya Joshi,ananya.joshi44@example.com,09918517462,BCA,Mumbai University,0,02/08/2024,on_hold
+APP037,Rohan Sharma,rohan.sharma10@example.com,9319575864,mba,Anna University,Fresher,2023-06-17,on_hold
+APP050,Rohan Mehta,not-an-email,9197938271,BCA,Delhi University,12,2023-01-21,REJECTED

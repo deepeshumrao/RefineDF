@@ -1,0 +1,682 @@
+[
+  {
+    "Employee_ID":"EMP031",
+    "Name":"ISHAAN IYER",
+    "Department":"finance",
+    "Email":"ishaan.iyer30@example.com",
+    "Phone":"+91-93297 30155",
+    "Date_of_Joining":"2021\/06\/18",
+    "Salary":"57110",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP027",
+    "Name":"Rohit Mehta",
+    "Department":"SALES",
+    "Email":null,
+    "Phone":"9812807629",
+    "Date_of_Joining":"27\/02\/2020",
+    "Salary":"59444",
+    "Rating":"0"
+  },
+  {
+    "Employee_ID":"EMP053",
+    "Name":"shreya khan",
+    "Department":"it ",
+    "Email":"shreya.khan91@example.com",
+    "Phone":"09607042130",
+    "Date_of_Joining":"13\/03\/2022",
+    "Salary":"96616",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP025",
+    "Name":"Rohit Nair",
+    "Department":"IT",
+    "Email":"rohit.nair86@example.com",
+    "Phone":"9812306873",
+    "Date_of_Joining":"17-05-2023",
+    "Salary":"72753",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP033",
+    "Name":"NIKHIL KHAN",
+    "Department":"Information Technology",
+    "Email":"nikhil.khan60@example.com",
+    "Phone":"+91-96735 10887",
+    "Date_of_Joining":"32\/13\/2020",
+    "Salary":"47786",
+    "Rating":"7"
+  },
+  {
+    "Employee_ID":"EMP022",
+    "Name":"Vikram Reddy",
+    "Department":"IT",
+    "Email":"user@example",
+    "Phone":"9940081098",
+    "Date_of_Joining":"28\/11\/2024",
+    "Salary":"44168",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP001",
+    "Name":"Sneha Sharma",
+    "Department":"Finance",
+    "Email":"sneha.sharma32@example.com",
+    "Phone":"9826600539",
+    "Date_of_Joining":"February 19, 2022",
+    "Salary":"42280",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP056",
+    "Name":"Vikram Mehta",
+    "Department":"it ",
+    "Email":"vikram.mehta43@example.com",
+    "Phone":"+91-95727 75194",
+    "Date_of_Joining":"24\/01\/2021",
+    "Salary":"115823",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP028",
+    "Name":"Rahul Iyer",
+    "Department":"MARKETING",
+    "Email":"rahul.iyer81@example.com",
+    "Phone":"9512293741",
+    "Date_of_Joining":"2019-03-21",
+    "Salary":"43970",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP004",
+    "Name":"Kavya Iyer",
+    "Department":"Sales",
+    "Email":"kavya.iyer59@example.com",
+    "Phone":null,
+    "Date_of_Joining":"2020-12-22",
+    "Salary":"52431",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP037",
+    "Name":"Sneha Joshi",
+    "Department":"SALES",
+    "Email":"sneha.joshi45@example.com",
+    "Phone":"9174041730",
+    "Date_of_Joining":"2020\/01\/28",
+    "Salary":"43833",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP030",
+    "Name":"Aditya Kumar",
+    "Department":"Information Technology",
+    "Email":"aditya.kumar61@example.com",
+    "Phone":"09784683755",
+    "Date_of_Joining":"16\/09\/2024",
+    "Salary":"40155",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP008",
+    "Name":"karthik iyer",
+    "Department":"human resources",
+    "Email":"karthik.iyer21@example.com",
+    "Phone":"09872751234",
+    "Date_of_Joining":"2022-03-17",
+    "Salary":"69117",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP002",
+    "Name":"Rohit Khan",
+    "Department":"Hr",
+    "Email":"rohit.khan70@example.com",
+    "Phone":"9398704996",
+    "Date_of_Joining":"2018\/03\/23",
+    "Salary":"50379",
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP902",
+    "Name":"Test User",
+    "Department":null,
+    "Email":"test@example.com",
+    "Phone":null,
+    "Date_of_Joining":"2020-01-01",
+    "Salary":null,
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP011",
+    "Name":"aditya iyer",
+    "Department":"it ",
+    "Email":"aditya.iyer9@example.com",
+    "Phone":"9347083812",
+    "Date_of_Joining":"2018-02-23",
+    "Salary":"34117",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP010",
+    "Name":"ISHAAN KUMAR",
+    "Department":"Finance",
+    "Email":"ishaan.kumar61@example.com",
+    "Phone":"9666585408",
+    "Date_of_Joining":"18\/04\/2021",
+    "Salary":"82296",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP016",
+    "Name":"KAVYA GUPTA",
+    "Department":"Sales",
+    "Email":"kavya.gupta73@example.com",
+    "Phone":"+91-97650 55833",
+    "Date_of_Joining":"19-10-2023",
+    "Salary":"56772",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP032",
+    "Name":"Aarav Joshi",
+    "Department":"Marketing",
+    "Email":"aarav.joshi1@example.com",
+    "Phone":"9518744974",
+    "Date_of_Joining":"18\/07\/2024",
+    "Salary":"65774",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP038",
+    "Name":"VIKRAM GUPTA",
+    "Department":"Hr",
+    "Email":"vikram.gupta67@example.com",
+    "Phone":"9967797300",
+    "Date_of_Joining":"2024\/08\/15",
+    "Salary":"107656",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP035",
+    "Name":"Priya Sharma",
+    "Department":"MARKETING",
+    "Email":"priya.sharma26@example.com",
+    "Phone":"+91-93561 35680",
+    "Date_of_Joining":"19\/02\/2023",
+    "Salary":"63586",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP019",
+    "Name":"ishaan kumar",
+    "Department":"HR",
+    "Email":"ishaan.kumar78@example.com",
+    "Phone":"9838194420",
+    "Date_of_Joining":"16-09-2020",
+    "Salary":"999999999",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP049",
+    "Name":"Tanya Joshi",
+    "Department":"SALES",
+    "Email":"tanya.joshi98@example.com",
+    "Phone":"9143198431",
+    "Date_of_Joining":"2019\/08\/17",
+    "Salary":"53788",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP012",
+    "Name":"Shreya Reddy",
+    "Department":"HR",
+    "Email":"shreya.reddy93@example.com",
+    "Phone":"09607526654",
+    "Date_of_Joining":"32\/13\/2020",
+    "Salary":"76438",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP018",
+    "Name":"DIVYA SINGH",
+    "Department":"Hr",
+    "Email":"divya.singh70@example.com",
+    "Phone":"9966616964",
+    "Date_of_Joining":"27-11-2018",
+    "Salary":"43577",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP026",
+    "Name":"Pooja Das",
+    "Department":"SALES",
+    "Email":"pooja.das87@example.com",
+    "Phone":null,
+    "Date_of_Joining":"10-01-2024",
+    "Salary":"106019",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP005",
+    "Name":"Arjun Das",
+    "Department":"Information Technology",
+    "Email":"arjun.das29@example.com",
+    "Phone":"+91-99332 23566",
+    "Date_of_Joining":"26-01-2024",
+    "Salary":"38675",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP042",
+    "Name":"ISHAAN KHAN",
+    "Department":"MARKETING",
+    "Email":"ishaan.khan28@example.com",
+    "Phone":"9733064117",
+    "Date_of_Joining":"2022-10-10",
+    "Salary":"68829",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP034",
+    "Name":"Rohit Patel",
+    "Department":"Hr",
+    "Email":"rohit.patel98@example.com",
+    "Phone":"9993271900",
+    "Date_of_Joining":"2024-02-16",
+    "Salary":"36826",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP014",
+    "Name":"Kavya Kumar",
+    "Department":"it ",
+    "Email":"kavya.kumar62@example.com",
+    "Phone":"09162959284",
+    "Date_of_Joining":"2018\/07\/09",
+    "Salary":"102845",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP901",
+    "Name":null,
+    "Department":"Sales",
+    "Email":null,
+    "Phone":null,
+    "Date_of_Joining":null,
+    "Salary":null,
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP021",
+    "Name":"  Pooja Kumar  ",
+    "Department":"MARKETING",
+    "Email":"pooja.kumar47@example.com",
+    "Phone":"9142836793",
+    "Date_of_Joining":"2019-11-08",
+    "Salary":"103385",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP060",
+    "Name":"Meera Das",
+    "Department":"finance",
+    "Email":"meera.das10@example.com",
+    "Phone":"09730900313",
+    "Date_of_Joining":"2021\/12\/09",
+    "Salary":"56111",
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP006",
+    "Name":"Rohit Das",
+    "Department":"Hr",
+    "Email":"rohit.das83@example.com",
+    "Phone":"9364814270",
+    "Date_of_Joining":"2022\/05\/24",
+    "Salary":"82350",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP045",
+    "Name":"Nikhil Patel",
+    "Department":"human resources",
+    "Email":"nikhil.patel39@example.com",
+    "Phone":"9427899537",
+    "Date_of_Joining":"2018-10-24",
+    "Salary":"57235",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP024",
+    "Name":"  Tanya Singh  ",
+    "Department":"MARKETING",
+    "Email":"tanya.singh77@example.com",
+    "Phone":"9436808455",
+    "Date_of_Joining":"13\/02\/2022",
+    "Salary":"87,154",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP059",
+    "Name":"Manoj Gupta",
+    "Department":"SALES",
+    "Email":"user @example.com",
+    "Phone":"9765408938",
+    "Date_of_Joining":"05\/10\/2021",
+    "Salary":"63289",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP029",
+    "Name":"  Manoj Patel  ",
+    "Department":"Finance",
+    "Email":"user@.com",
+    "Phone":"9960514523",
+    "Date_of_Joining":"20-09-2022",
+    "Salary":"88008",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP020",
+    "Name":"Aarav Nair",
+    "Department":"human resources",
+    "Email":"aarav.nair82@example.com",
+    "Phone":"9574417266",
+    "Date_of_Joining":"September 1, 2021",
+    "Salary":"49536",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP003",
+    "Name":"Divya Nair",
+    "Department":"Hr",
+    "Email":"divya.nair6@example.com",
+    "Phone":"+91-95064 48196",
+    "Date_of_Joining":"20-11-2020",
+    "Salary":"39,116",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP046",
+    "Name":"Kavya Kumar",
+    "Department":"it ",
+    "Email":"KAVYA.KUMAR21@EXAMPLE.COM",
+    "Phone":"9583724666",
+    "Date_of_Joining":"02\/05\/2021",
+    "Salary":"67056",
+    "Rating":"0"
+  },
+  {
+    "Employee_ID":"EMP058",
+    "Name":"  Kavya Khan  ",
+    "Department":"IT",
+    "Email":"kavya.khan13@example.com",
+    "Phone":"9207918827",
+    "Date_of_Joining":"2023-05-01",
+    "Salary":"37355",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP055",
+    "Name":"Aditya Nair",
+    "Department":"HR",
+    "Email":"aditya.nair90@example.com",
+    "Phone":"9932734539",
+    "Date_of_Joining":"2020\/12\/16",
+    "Salary":"116991",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP009",
+    "Name":"Divya Kumar",
+    "Department":"Hr",
+    "Email":"divya.kumar68@example.com",
+    "Phone":"+91-96246 36385",
+    "Date_of_Joining":"2020-05-08",
+    "Salary":"104364",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP048",
+    "Name":"Sneha Patel",
+    "Department":"Marketing",
+    "Email":"sneha.patel90@example.com",
+    "Phone":"9679800791",
+    "Date_of_Joining":"2018\/10\/02",
+    "Salary":"109129",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP043",
+    "Name":"ishaan kumar",
+    "Department":"HR",
+    "Email":"ishaan.kumar7@example.com",
+    "Phone":"9235591568",
+    "Date_of_Joining":"2024-08-04",
+    "Salary":"91524",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP047",
+    "Name":"Tanya Das",
+    "Department":"SALES",
+    "Email":"tanya.das26@example.com",
+    "Phone":"+91-97953 92488",
+    "Date_of_Joining":"2020-03-03",
+    "Salary":"70319",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP044",
+    "Name":"ARJUN PATEL",
+    "Department":"Finance",
+    "Email":"not-an-email",
+    "Phone":"+91-92629 15636",
+    "Date_of_Joining":"32\/13\/2020",
+    "Salary":"109471",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP017",
+    "Name":"Vikram Das",
+    "Department":"IT",
+    "Email":"vikram.das59@example.com",
+    "Phone":"+91-91778 92576",
+    "Date_of_Joining":"2022-10-04",
+    "Salary":"96307",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP040",
+    "Name":"Ishaan Sharma",
+    "Department":"IT",
+    "Email":"ishaan.sharma25@example.com",
+    "Phone":"9624606470",
+    "Date_of_Joining":"2019\/12\/16",
+    "Salary":"999999999",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP013",
+    "Name":"Sneha Sharma",
+    "Department":"Hr",
+    "Email":"user@.com",
+    "Phone":"9304235259",
+    "Date_of_Joining":"06-07-2019",
+    "Salary":"39880",
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP041",
+    "Name":"Meera Das",
+    "Department":"MARKETING",
+    "Email":"meera.das61@example.com",
+    "Phone":"9900942073",
+    "Date_of_Joining":"15-12-2020",
+    "Salary":"-5000",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP057",
+    "Name":"Karthik Joshi",
+    "Department":"it ",
+    "Email":"karthik.joshi84@example.com",
+    "Phone":"9824085842",
+    "Date_of_Joining":"2021\/06\/21",
+    "Salary":"34705",
+    "Rating":"2"
+  },
+  {
+    "Employee_ID":"EMP023",
+    "Name":"Rohit Patel",
+    "Department":"human resources",
+    "Email":"rohit.patel30@example.com",
+    "Phone":"12345",
+    "Date_of_Joining":"2024\/05\/12",
+    "Salary":"100282",
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP023",
+    "Name":"Rohit Patel",
+    "Department":"human resources",
+    "Email":"rohit.patel30@example.com",
+    "Phone":"12345",
+    "Date_of_Joining":"2024\/05\/12",
+    "Salary":"100282",
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP039",
+    "Name":"arjun patel",
+    "Department":"it ",
+    "Email":"arjun.patel60@example.com",
+    "Phone":"+91-94612 03124",
+    "Date_of_Joining":"2024\/06\/06",
+    "Salary":"63862",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP015",
+    "Name":"Rohit Sharma",
+    "Department":"Marketing",
+    "Email":"ROHIT.SHARMA70@EXAMPLE.COM",
+    "Phone":"+91-94367 30606",
+    "Date_of_Joining":"August 17, 2022",
+    "Salary":"999999999",
+    "Rating":"0"
+  },
+  {
+    "Employee_ID":"EMP052",
+    "Name":"  Shreya Iyer  ",
+    "Department":"human resources",
+    "Email":"shreya.iyer81@example.com",
+    "Phone":"12345",
+    "Date_of_Joining":"03\/07\/2022",
+    "Salary":"44871",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP050",
+    "Name":"Ramesh Patel",
+    "Department":"Information Technology",
+    "Email":"user@.com",
+    "Phone":"9454123990",
+    "Date_of_Joining":"2021\/05\/22",
+    "Salary":"102,102",
+    "Rating":"1"
+  },
+  {
+    "Employee_ID":"EMP019",
+    "Name":"ishaan kumar",
+    "Department":"HR",
+    "Email":"ishaan.kumar78@example.com",
+    "Phone":"9838194420",
+    "Date_of_Joining":"16-09-2020",
+    "Salary":"999999999",
+    "Rating":"4"
+  },
+  {
+    "Employee_ID":"EMP037",
+    "Name":"Sneha Joshi",
+    "Department":"SALES",
+    "Email":"sneha.joshi45@example.com",
+    "Phone":"9174041730",
+    "Date_of_Joining":"2020\/01\/28",
+    "Salary":"43833",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP058",
+    "Name":"  Kavya Khan  ",
+    "Department":"IT",
+    "Email":"kavya.khan13@example.com",
+    "Phone":"9207918827",
+    "Date_of_Joining":"2023-05-01",
+    "Salary":"37355",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP054",
+    "Name":"Pooja Nair",
+    "Department":"Sales",
+    "Email":"user@example",
+    "Phone":"9999232921",
+    "Date_of_Joining":"28\/08\/2023",
+    "Salary":"93483",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP045",
+    "Name":"Nikhil Patel",
+    "Department":"human resources",
+    "Email":"nikhil.patel39@example.com",
+    "Phone":"9427899537",
+    "Date_of_Joining":"2018-10-24",
+    "Salary":"57235",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP007",
+    "Name":"PRIYA IYER",
+    "Department":"Marketing",
+    "Email":"priya.iyer21@example.com",
+    "Phone":null,
+    "Date_of_Joining":"2021-09-09",
+    "Salary":"45014",
+    "Rating":"5"
+  },
+  {
+    "Employee_ID":"EMP002",
+    "Name":"Rohit Khan",
+    "Department":"Hr",
+    "Email":"rohit.khan70@example.com",
+    "Phone":"9398704996",
+    "Date_of_Joining":"2018\/03\/23",
+    "Salary":"50379",
+    "Rating":null
+  },
+  {
+    "Employee_ID":"EMP036",
+    "Name":"Sneha Kumar",
+    "Department":"finance",
+    "Email":"sneha.kumar14@example.com",
+    "Phone":"9718257024",
+    "Date_of_Joining":"July 23, 2021",
+    "Salary":"112213",
+    "Rating":"3"
+  },
+  {
+    "Employee_ID":"EMP051",
+    "Name":"Sneha Gupta",
+    "Department":"SALES",
+    "Email":"sneha.gupta1@example.com",
+    "Phone":"+91-95437 21204",
+    "Date_of_Joining":"2022\/06\/20",
+    "Salary":"36764",
+    "Rating":null
+  }
+]

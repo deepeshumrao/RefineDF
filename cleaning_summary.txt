@@ -1,0 +1,27 @@
+DATA SANITATION - CLEANING SUMMARY
+========================================
+
+Input rows : 68
+Output rows: 61
+
+Missing values per column (before -> after):
+  Employee_ID     :   0 ->   0
+  Name            :   1 ->   0
+  Department      :   1 ->   0
+  Email           :   2 ->   8
+  Phone           :   5 ->   6
+  Date_of_Joining :   1 ->   3
+  Salary          :   2 ->   0
+  Rating          :   7 ->   0
+
+Cleaning actions:
+  - Removed 6 exact duplicate row(s).
+  - Normalised names (strip + title case); dropped 1 row(s) with no name.
+  - Mapped 13 raw department label(s) to canonical values; 1 unmapped -> 'Unknown'.
+  - Validated emails with regex; flagged 8 invalid/missing email(s).
+  - Normalised phone numbers to +91-XXXXXXXXXX; 6 invalid/missing (was 57 non-blank before validation).
+  - Parsed mixed date formats to ISO (YYYY-MM-DD); 3 unparseable/missing date(s).
+  - Coerced salary to numeric; fixed 1 negative value(s); capped 3 outlier(s) at IQR upper fence (178,709); imputed 2 missing value(s) with median (65,774).
+  - Validated rating scale 1-5; fixed 4 out-of-range value(s); imputed 9 missing/invalid value(s) with median (3).
+
+Clean dataset written to: cleaned_data.csv

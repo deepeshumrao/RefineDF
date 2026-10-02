@@ -1,0 +1,14 @@
+# Core data libraries (the heart of the project)
+pandas>=2.0
+numpy>=1.24
+
+# Charts (used lightly, in the Visualize tab)
+matplotlib>=3.6
+
+# File-format support for the loaders
+openpyxl>=3.1    # reading/writing Excel .xlsx files
+lxml>=4.9        # reading/writing XML files
+
+# GUI toolkit: tkinter ships WITH Python itself --
+# no pip package needed. On some Linux systems you may need:
+#   sudo apt install python3-tk
